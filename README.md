@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0445-add-two-numbers-ii](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
