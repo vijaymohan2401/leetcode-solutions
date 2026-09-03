@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
