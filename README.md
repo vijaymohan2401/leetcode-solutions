@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0179-largest-number](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
