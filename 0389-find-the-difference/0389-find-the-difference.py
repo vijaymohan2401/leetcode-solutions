@@ -5,15 +5,10 @@ class Solution(object):
         :type t: str
         :rtype: str
         """
-        res={}
+        ans=0
         for ch in s:
-            if ch in res:
-                res[ch]+=1
-            else:
-                res[ch]=1
+            ans^=ord(ch)
         for ch in t:
-            if ch in res and res[ch]>0:
-                res[ch]-=1
-            else:
-                return ch 
-        
+            ans^=ord(ch)
+        return chr(ans)
+       
