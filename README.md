@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0290-word-pattern](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0383-ransom-note) |
