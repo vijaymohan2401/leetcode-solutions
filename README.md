@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0434-number-of-segments-in-a-string](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
