@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
