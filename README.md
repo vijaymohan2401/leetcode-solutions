@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0066-plus-one) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0179-largest-number) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
