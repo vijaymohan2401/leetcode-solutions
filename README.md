@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
@@ -266,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
