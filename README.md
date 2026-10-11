@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
