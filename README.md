@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0067-add-binary) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0290-word-pattern) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0049-group-anagrams) |
