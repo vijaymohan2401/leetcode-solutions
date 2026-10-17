@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0819-most-common-word](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0819-most-common-word](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0819-most-common-word](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/vijaymohan2401/leetcode-solutions/tree/master/0819-most-common-word) |
 ## String Matching
 |  |
 | ------- |
